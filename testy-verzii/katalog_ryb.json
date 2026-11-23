@@ -1,0 +1,285 @@
+{
+ "verzia": 1,
+ "poznamka": "Orientačné rozpätia parametrov vody. Každý druh má uvedený zdroj. Hodnoty over pred nákupom zvierat.",
+ "druhy": [
+  {
+   "id": "betta-splendens",
+   "name": "Bojovnica pestrá",
+   "latin": "Betta splendens",
+   "grp": "ryba",
+   "temp": [
+    24,
+    30
+   ],
+   "ph": [
+    6,
+    8
+   ],
+   "gh": [
+    5,
+    22
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 1,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "macropodus-opercularis",
+   "name": "Rájovec dlhoplutvý",
+   "latin": "Macropodus opercularis",
+   "grp": "ryba",
+   "temp": [
+    15,
+    22
+   ],
+   "ph": [
+    6,
+    7.5
+   ],
+   "gh": [
+    5,
+    25
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 1,
+   "note": "Zdroj uvádza chladnejšie rozpätie teploty (15 – 22 °C). Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "poecilia-reticulata",
+   "name": "Živorodka dúhová (gupka)",
+   "latin": "Poecilia reticulata",
+   "grp": "ryba",
+   "temp": [
+    22,
+    27
+   ],
+   "ph": [
+    6,
+    8
+   ],
+   "gh": [
+    3,
+    25
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 1,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "xiphophorus-helleri",
+   "name": "Mečovka mexická",
+   "latin": "Xiphophorus helleri",
+   "grp": "ryba",
+   "temp": [
+    21,
+    27
+   ],
+   "ph": [
+    7,
+    8
+   ],
+   "gh": [
+    6,
+    20
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 1,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "poecilia-velifera",
+   "name": "Živorodka veľkoplutvá",
+   "latin": "Poecilia velifera",
+   "grp": "ryba",
+   "temp": [
+    25,
+    28
+   ],
+   "ph": [
+    7,
+    7.5
+   ],
+   "gh": [
+    13,
+    20
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 3,
+   "note": "Potrebuje tvrdšiu vodu než väčšina druhov. Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "ancistrus-sp",
+   "name": "Krunierovec (Ancistrus)",
+   "latin": "Ancistrus sp.",
+   "grp": "ryba",
+   "temp": [
+    21,
+    30
+   ],
+   "ph": [
+    6.5,
+    7.5
+   ],
+   "gh": [
+    2,
+    19
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 1,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "corydoras-paleatus",
+   "name": "Pancierniček škvrnitý",
+   "latin": "Corydoras paleatus",
+   "grp": "ryba",
+   "temp": [
+    20,
+    24
+   ],
+   "ph": [
+    6,
+    7
+   ],
+   "gh": [
+    5,
+    19
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 2,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "paracheirodon-innesi",
+   "name": "Tetra neónová (neónka)",
+   "latin": "Paracheirodon innesi",
+   "grp": "ryba",
+   "temp": [
+    20,
+    26
+   ],
+   "ph": [
+    6,
+    7.5
+   ],
+   "gh": [
+    3,
+    12
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 2,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "trigonostigma-heteromorpha",
+   "name": "Razbora klinoškvrnná",
+   "latin": "Trigonostigma heteromorpha",
+   "grp": "ryba",
+   "temp": [
+    22,
+    28
+   ],
+   "ph": [
+    6.5,
+    7.5
+   ],
+   "gh": [
+    3,
+    15
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 1,
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "symphysodon-sp",
+   "name": "Terčovec (diskus)",
+   "latin": "Symphysodon sp.",
+   "grp": "ryba",
+   "temp": [
+    28,
+    30
+   ],
+   "ph": [
+    5.5,
+    6
+   ],
+   "gh": [
+    3,
+    5
+   ],
+   "kh": null,
+   "no3_max": null,
+   "difficulty": 3,
+   "note": "Zdroj uvádza veľmi úzke rozpätie parametrov. Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+  },
+  {
+   "id": "neocaridina-davidi",
+   "name": "Krevetka Neocaridina (cherry)",
+   "latin": "Neocaridina davidi",
+   "grp": "krevetka",
+   "temp": [
+    21,
+    26
+   ],
+   "ph": [
+    5,
+    8
+   ],
+   "gh": [
+    3,
+    15
+   ],
+   "kh": [
+    0,
+    12
+   ],
+   "no3_max": 20,
+   "difficulty": null,
+   "note": "Znáša široké rozpätie, rozhoduje stabilita. Bežne udávané ideálne hodnoty sú užšie (GH 6 – 9, KH 2 – 4, pH 7,0 – 7,5).",
+   "source": "2HR Aquarist: Red cherry shrimp care guide (2hraquarist.com/blogs/beginners-planted-tank-101/red-cherry-shrimp-care-guide); dusičnany: tropicflow.com/pages/freshwater-shrimp-water-parameters"
+  },
+  {
+   "id": "caridina-cantonensis",
+   "name": "Krevetka Caridina (crystal red / black)",
+   "latin": "Caridina cantonensis",
+   "grp": "krevetka",
+   "temp": null,
+   "ph": [
+    5.5,
+    7.5
+   ],
+   "gh": [
+    4,
+    8
+   ],
+   "kh": [
+    0,
+    4
+   ],
+   "no3_max": 10,
+   "difficulty": null,
+   "note": "Citlivejšia než Neocaridina; zdroj neuvádza teplotu, preto sa nekontroluje.",
+   "source": "2HR Aquarist: Keeping dwarf shrimp in planted tanks (2hraquarist.com/blogs/freshwater-fish-and-livestock/keeping-dwarf-shrimp-in-planted-tanks); dusičnany: tropicflow.com/pages/freshwater-shrimp-water-parameters"
+  }
+ ]
+}
