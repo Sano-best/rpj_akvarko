@@ -1,6 +1,6 @@
 {
- "verzia": 1,
- "poznamka": "Orientačné rozpätia parametrov vody. Každý druh má uvedený zdroj. Hodnoty over pred nákupom zvierat.",
+ "verzia": 2,
+ "poznamka": "Orientačné rozpätia parametrov vody. Každý druh má uvedený zdroj. Hodnoty over pred nákupom zvierat. Veľkosť = horná hodnota rozpätia zo zdroja; minimálny objem akvária je odporúčanie obchodov. Pri druhoch bez týchto údajov sa obsádka nepočíta.",
  "druhy": [
   {
    "id": "betta-splendens",
@@ -22,8 +22,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 1,
-   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: worldofwater.com/content/aquarium/HTML/files/assets/basic-html/page20.html",
+   "size_cm": 5,
+   "min_liters": 15
   },
   {
    "id": "macropodus-opercularis",
@@ -68,8 +70,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 1,
-   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: charterhouse-aquatics.com/blogs/help-guides/freshwater-fish-size-guide-how-big-do-popular-aquarium-fish-really-get; vetsend.co.uk/top-10-aquarium-fish",
+   "size_cm": 6,
+   "min_liters": 60
   },
   {
    "id": "xiphophorus-helleri",
@@ -137,8 +141,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 1,
-   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: charterhouse-aquatics.com/blogs/help-guides/freshwater-fish-size-guide-how-big-do-popular-aquarium-fish-really-get; worldofwater.com/content/aquarium/HTML/files/assets/basic-html/page20.html",
+   "size_cm": 15,
+   "min_liters": 90
   },
   {
    "id": "corydoras-paleatus",
@@ -160,8 +166,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 2,
-   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: charterhouse-aquatics.com/blogs/help-guides/freshwater-fish-size-guide-how-big-do-popular-aquarium-fish-really-get",
+   "size_cm": 7,
+   "min_liters": 75
   },
   {
    "id": "paracheirodon-innesi",
@@ -183,8 +191,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 2,
-   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: charterhouse-aquatics.com/blogs/help-guides/freshwater-fish-size-guide-how-big-do-popular-aquarium-fish-really-get; vetsend.co.uk/top-10-aquarium-fish",
+   "size_cm": 4,
+   "min_liters": 60
   },
   {
    "id": "trigonostigma-heteromorpha",
@@ -206,8 +216,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 1,
-   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: charterhouse-aquatics.com/blogs/help-guides/freshwater-fish-size-guide-how-big-do-popular-aquarium-fish-really-get",
+   "size_cm": 5,
+   "min_liters": 60
   },
   {
    "id": "symphysodon-sp",
@@ -229,8 +241,10 @@
    "kh": null,
    "no3_max": null,
    "difficulty": 3,
-   "note": "Zdroj uvádza veľmi úzke rozpätie parametrov. Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné.",
-   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf)"
+   "note": "Zdroj uvádza veľmi úzke rozpätie parametrov. Rozpätia sú z prednášky o rozmnožovaní rýb, ber ich ako orientačné. Minimálny objem je odporúčanie obchodov, zdroje sa líšia.",
+   "source": "Patoka J.: Akvaristika, přednáška č. 6 – Rozmnožování akvarijních ryb, ČZU Praha, 2026 (home.czu.cz/storage/354/82579_Akvaristika-prednaska-06-reprodukce-2026.pdf); veľkosť a minimálny objem akvária: vetsend.co.uk/top-10-aquarium-fish",
+   "size_cm": 15,
+   "min_liters": 250
   },
   {
    "id": "neocaridina-davidi",
